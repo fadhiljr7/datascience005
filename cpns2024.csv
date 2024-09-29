@@ -1,0 +1,544 @@
+No;Instansi;Formasi;Pendaftar;Submit;MS;TMS
+1;Arsip Nasional Republik Indonesia;99;4628;3758;3227;531
+2;Badan Informasi Geospasial;82;1208;1009;867;142
+3;Badan Intelijen Negara;600;14102;7514;4428;3086
+4;Badan Karantina Indonesia;525;7478;7031;6519;512
+5;Badan Keamanan Laut RI;397;2695;1365;860;497
+6;Badan Kepegawaian Negara;529;3941;2785;1774;1007
+7;Badan Kependudukan dan Keluarga Berencana Nasional;1206;39790;36373;27685;8688
+8;Badan Meteorologi, Klimatologi dan Geofisika;250;3907;3440;3075;365
+9;Badan Narkotika Nasional;32;1224;376;261;115
+10;Badan Nasional Penanggulangan Bencana;100;2971;2493;1532;961
+11;Badan Nasional Penanggulangan Terorisme;194;1010;941;719;214
+12;Badan Nasional Pencarian dan Pertolongan;1389;11135;8628;6711;1917
+13;Badan Pangan Nasional;152;6457;5937;5525;412
+14;Badan Pelindungan Pekerja Migran Indonesia;400;3196;2708;1853;855
+15;Badan Pembinaan Ideologi Pancasila;53;886;769;676;93
+16;Badan Pemeriksa Keuangan;154;19565;18475;15780;2695
+17;Badan Pengawas Obat dan Makanan;781;28363;26787;21301;5486
+18;Badan Pengawas Pemilihan Umum;1984;24473;22847;19898;2949
+19;Badan Pengawasan Keuangan dan Pembangunan;831;35278;33653;31298;2355
+20;Badan Pusat Statistik;408;8292;7851;6835;1015
+21;Badan Riset dan Inovasi Nasional;500;485;334;50;29
+22;Badan Siber dan Sandi Negara;141;2980;2638;2013;625
+23;Kejaksaan Agung;9694;80749;59874;49160;10704
+24;Kementerian Agama;20772;411194;386540;319254;67286
+25;Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional;1336;23699;22822;19045;3777
+26;Kementerian Dalam Negeri;326;7928;6947;5635;1312
+27;Kementerian Energi dan Sumber Daya Mineral;794;14331;11696;8281;1906
+28;Kementerian Hukum dan Hak Asasi Manusia;9070;567552;491651;440532;51119
+29;Kementerian Investasi/Badan Koordinasi Penanaman Modal;110;1990;1730;1495;234
+30;Kementerian Kelautan dan Perikanan;300;16554;14007;11823;2184
+31;Kementerian Kesehatan;8607;106793;88799;47056;13908
+32;Kementerian Ketenagakerjaan;1109;18938;16084;14402;1682
+33;Kementerian Keuangan;1230;39027;34818;30947;3871
+34;Kementerian Komunikasi dan Informatika;4215;87246;75162;62343;12810
+35;Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan;65;385;133;0;0
+36;Kementerian Koordinator Bidang Perekonomian;75;3286;2731;2336;395
+37;Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan;86;1459;1287;1195;92
+38;Kementerian Koperasi dan Usaha Kecil dan Menengah;139;9650;8382;4129;1084
+39;Kementerian Lingkungan Hidup dan Kehutanan;3066;44362;37976;23050;5012
+40;Kementerian Luar Negeri;100;4169;3703;2612;1091
+41;Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif;392;18953;16361;13000;3361
+42;Kementerian Pekerjaan Umum dan Perumahan Rakyat;6388;31486;29414;26435;2978
+43;Kementerian Pemberdayaan Perempuan dan Perlindungan Anak;74;4518;3725;1972;1316
+44;Kementerian Pemuda dan Olahraga;53;5267;4217;2697;1520
+45;Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;61;474;401;256;145
+46;Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi;12843;88185;77796;67354;10442
+47;Kementerian Perdagangan;309;6069;5285;2556;2729
+48;Kementerian Perencanaan Pembangunan Nasional/Bappenas;751;26712;25203;19006;3810
+49;Kementerian Perhubungan;1391;33346;23889;13750;10139
+50;Kementerian Perindustrian;971;14949;12853;10304;2434
+51;Kementerian Pertahanan;6566;43440;36253;29625;6628
+52;Kementerian Pertanian;1212;34014;29885;25846;4039
+53;Kementerian Sekretariat Negara;426;8323;7693;6777;916
+54;Kementerian Sosial;683;7625;6641;5079;1561
+55;Komisi Pemberantasan Korupsi;230;3967;1619;734;885
+56;Lembaga Administrasi Negara;114;2432;2032;1742;282
+57;Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah;78;2231;1976;1541;435
+58;Lembaga Perlindungan Saksi dan Korban;176;6331;5845;4783;995
+59;Mahkamah Agung RI;4940;26206;24442;22999;1443
+60;Otorita Ibu Kota Nusantara;600;26202;19612;14213;5399
+61;Pemerintah Aceh;681;26943;25250;15851;2486
+62;Pemerintah Daerah Daerah Istimewa Yogyakarta;378;8004;7709;6817;892
+63;Pemerintah Kab. Aceh Barat;94;3326;3106;2675;431
+64;Pemerintah Kab. Aceh Barat Daya;75;2509;2337;1771;566
+65;Pemerintah Kab. Aceh Besar;100;4099;3916;3191;725
+66;Pemerintah Kab. Aceh Singkil;35;992;955;691;264
+67;Pemerintah Kab. Aceh Tamiang;55;831;759;605;154
+68;Pemerintah Kab. Aceh Tenggara;80;792;733;546;187
+69;Pemerintah Kab. Aceh Timur;331;3410;3251;2873;378
+70;Pemerintah Kab. Aceh Utara;40;1463;1223;803;420
+71;Pemerintah Kab. Agam;125;2543;2371;1645;726
+72;Pemerintah Kab. Alor;547;2458;2382;2118;264
+73;Pemerintah Kab. Asahan;163;3195;2936;2741;195
+74;Pemerintah Kab. Asmat;248;2194;2132;1897;82
+75;Pemerintah Kab. Badung;661;9251;8742;6301;2441
+76;Pemerintah Kab. Balangan;220;3590;3454;2905;549
+77;Pemerintah Kab. Bandung;300;6324;5639;3935;1704
+78;Pemerintah Kab. Bandung Barat;27;2049;1273;733;540
+79;Pemerintah Kab. Banggai;250;2959;2795;2122;673
+80;Pemerintah Kab. Banggai Kepulauan;593;6191;5915;4723;731
+81;Pemerintah Kab. Banggai Laut;125;718;686;637;49
+82;Pemerintah Kab. Bangka;150;3748;3395;1786;1609
+83;Pemerintah Kab. Bangka Barat;40;710;606;383;223
+84;Pemerintah Kab. Bangka Selatan;20;696;670;590;80
+85;Pemerintah Kab. Bangka Tengah;54;1909;1696;938;758
+86;Pemerintah Kab. Bangkalan;120;2061;1929;1576;353
+87;Pemerintah Kab. Bangli;9;19;17;15;2
+88;Pemerintah Kab. Banjar;34;2155;1817;1546;271
+89;Pemerintah Kab. Banjarnegara;70;1782;1689;1500;189
+90;Pemerintah Kab. Bantul;114;4548;4124;3417;707
+91;Pemerintah Kab. Banyuasin;591;9124;8495;7421;1074
+92;Pemerintah Kab. Banyumas;77;4640;4324;3783;525
+93;Pemerintah Kab. Banyuwangi;89;2712;2483;2051;432
+94;Pemerintah Kab. Barito Kuala;94;1391;1309;763;546
+95;Pemerintah Kab. Barito Selatan;651;6245;5843;5094;115
+96;Pemerintah Kab. Barito Timur;425;1693;1576;1512;64
+97;Pemerintah Kab. Barito Utara;1912;12721;11672;8295;1090
+98;Pemerintah Kab. Barru;176;3066;2702;2311;364
+99;Pemerintah Kab. Batang;184;3110;2962;2654;308
+100;Pemerintah Kab. Batang Hari;110;2663;2538;1937;601
+101;Pemerintah Kab. Belitung;71;1296;1244;822;422
+102;Pemerintah Kab. Belitung Timur;206;2226;2162;1421;741
+103;Pemerintah Kab. Belu;282;1855;1779;1419;360
+104;Pemerintah Kab. Bengkayang;255;3118;2979;1998;981
+105;Pemerintah Kab. Bengkulu Selatan;60;454;407;387;20
+106;Pemerintah Kab. Bengkulu Tengah;314;2961;2860;2308;552
+107;Pemerintah Kab. Bengkulu Utara;75;834;784;692;36
+108;Pemerintah Kab. Berau;450;4439;4224;3928;296
+109;Pemerintah Kab. Biak Numfor;1121;4734;4395;2849;1545
+110;Pemerintah Kab. Bima;100;1515;1432;1033;398
+111;Pemerintah Kab. Bintan;46;860;799;738;61
+112;Pemerintah Kab. Bireuen;163;5277;5116;4669;447
+113;Pemerintah Kab. Blitar;46;618;585;494;91
+114;Pemerintah Kab. Blora;208;3649;3517;3158;359
+115;Pemerintah Kab. Bogor;379;9792;8707;7652;1054
+116;Pemerintah Kab. Bojonegoro;762;14454;13833;11797;1959
+117;Pemerintah Kab. Bolaang Mongondow;200;1582;1529;1409;120
+118;Pemerintah Kab. Bolaang Mongondow Selatan;22;631;564;407;157
+119;Pemerintah Kab. Bolaang Mongondow Timur;83;2077;1852;1639;213
+120;Pemerintah Kab. Bolaang Mongondow Utara;436;5051;4872;2601;2271
+121;Pemerintah Kab. Bombana;82;906;864;854;10
+122;Pemerintah Kab. Bondowoso;27;62;59;58;1
+123;Pemerintah Kab. Bone;75;3284;3067;2411;655
+124;Pemerintah Kab. Bone Bolango;20;474;447;354;93
+125;Pemerintah Kab. Boven Digoel;270;2808;2735;2362;373
+126;Pemerintah Kab. Boyolali;91;3115;2909;2593;316
+127;Pemerintah Kab. Brebes;170;6620;5617;3856;1761
+128;Pemerintah Kab. Buleleng;145;3045;2770;1309;1461
+129;Pemerintah Kab. Bulukumba;105;4010;3856;3611;245
+130;Pemerintah Kab. Bungo;168;3041;2843;2362;481
+131;Pemerintah Kab. Buol;95;1407;1330;1236;92
+132;Pemerintah Kab. Buru;200;2219;2113;2010;103
+133;Pemerintah Kab. Buru Selatan;500;1632;1566;1395;171
+134;Pemerintah Kab. Buton;365;4423;4291;3348;939
+135;Pemerintah Kab. Buton Tengah;106;1435;1371;1090;281
+136;Pemerintah Kab. Buton Utara;80;587;574;533;41
+137;Pemerintah Kab. Ciamis;250;8958;8359;6443;1916
+138;Pemerintah Kab. Cianjur;50;1993;1742;1506;236
+139;Pemerintah Kab. Cilacap;150;4073;3811;3132;679
+140;Pemerintah Kab. Cirebon;60;6245;5660;4997;661
+141;Pemerintah Kab. Deiyai;454;2398;2359;2127;232
+142;Pemerintah Kab. Deli Serdang;322;11159;10108;7479;2164
+143;Pemerintah Kab. Demak;104;3812;3568;3160;408
+144;Pemerintah Kab. Dharmasraya;119;2095;1915;1396;519
+145;Pemerintah Kab. Dogiyai;1000;2612;2560;961;161
+146;Pemerintah Kab. Dompu;250;4682;4544;4079;465
+147;Pemerintah Kab. Donggala;460;6662;6313;3718;2595
+148;Pemerintah Kab. Empat Lawang;25;514;489;364;125
+149;Pemerintah Kab. Ende;750;4547;4293;3250;1043
+150;Pemerintah Kab. Enrekang;25;295;261;211;49
+151;Pemerintah Kab. Fak-Fak;750;4320;4028;3593;405
+152;Pemerintah Kab. Flores Timur;255;2848;2740;2610;130
+153;Pemerintah Kab. Garut;200;7321;5675;3651;2024
+154;Pemerintah Kab. Gayo Lues;113;1347;1300;731;562
+155;Pemerintah Kab. Gianyar;160;2841;2664;1845;819
+156;Pemerintah Kab. Gorontalo;94;4676;4187;3778;409
+157;Pemerintah Kab. Gorontalo Utara;59;997;946;376;570
+158;Pemerintah Kab. Gresik;575;16310;14675;12753;1922
+159;Pemerintah Kab. Grobogan;150;4887;4626;4248;378
+160;Pemerintah Kab. Gunung Kidul;89;2577;2453;2026;427
+161;Pemerintah Kab. Gunung Mas;381;4920;4705;4091;614
+162;Pemerintah Kab. Halmahera Selatan;750;2685;2489;1912;577
+163;Pemerintah Kab. Halmahera Tengah;211;1987;1866;1444;422
+164;Pemerintah Kab. Halmahera Timur;1125;3913;3720;3379;341
+165;Pemerintah Kab. Halmahera Utara;116;1219;1092;687;405
+166;Pemerintah Kab. Hulu Sungai Selatan;169;2498;2423;2046;377
+167;Pemerintah Kab. Hulu Sungai Tengah;150;3681;3344;2810;239
+168;Pemerintah Kab. Hulu Sungai Utara;150;1240;1203;1103;100
+169;Pemerintah Kab. Indragiri Hilir;154;2825;2655;2194;461
+170;Pemerintah Kab. Indragiri Hulu;50;2727;2435;1653;782
+171;Pemerintah Kab. Indramayu;123;2284;2091;1625;466
+172;Pemerintah Kab. Intan Jaya;457;1860;1818;1597;221
+173;Pemerintah Kab. Jayapura;371;3324;2795;486;662
+174;Pemerintah Kab. Jayawijaya;1138;3727;3558;1441;1080
+175;Pemerintah Kab. Jember;250;7924;7208;6306;902
+176;Pemerintah Kab. Jembrana;15;740;693;468;225
+177;Pemerintah Kab. Jeneponto;30;625;594;577;17
+178;Pemerintah Kab. Jepara;375;8361;7613;6757;856
+179;Pemerintah Kab. Jombang;21;247;237;209;28
+180;Pemerintah Kab. Kaimana;225;1806;1669;1273;127
+181;Pemerintah Kab. Kampar;250;7122;6738;5193;1545
+182;Pemerintah Kab. Kapuas;318;2825;2743;2566;177
+183;Pemerintah Kab. Kapuas Hulu;206;2366;2271;1704;567
+184;Pemerintah Kab. Karanganyar;181;5912;5605;4824;781
+185;Pemerintah Kab. Karangasem;172;1105;1043;818;225
+186;Pemerintah Kab. Karawang;294;11802;10154;9038;1116
+187;Pemerintah Kab. Karimun;116;2538;2339;1284;1055
+188;Pemerintah Kab. Karo;50;1325;1202;906;296
+189;Pemerintah Kab. Katingan;201;1152;1112;1043;69
+190;Pemerintah Kab. Kaur;110;966;915;722;161
+191;Pemerintah Kab. Kayong Utara;270;4454;4139;3268;871
+192;Pemerintah Kab. Kebumen;335;7229;6790;5682;1108
+193;Pemerintah Kab. Kediri;150;4593;4258;3308;950
+194;Pemerintah Kab. Keerom;850;4715;4429;6;0
+195;Pemerintah Kab. Kendal;659;13114;12397;10052;2345
+196;Pemerintah Kab. Kep. Mentawai;40;259;233;185;48
+197;Pemerintah Kab. Kepulauan Anambas;158;1838;1733;1559;174
+198;Pemerintah Kab. Kepulauan Aru;520;2524;2418;2087;331
+199;Pemerintah Kab. Kepulauan Meranti;225;3785;3445;2193;1205
+200;Pemerintah Kab. Kepulauan Sangihe;203;1324;1266;979;287
+201;Pemerintah Kab. Kepulauan Selayar;50;748;709;591;118
+202;Pemerintah Kab. Kepulauan Siau Tagulandang Biaro;171;787;759;669;57
+203;Pemerintah Kab. Kepulauan Sula;100;818;796;562;234
+204;Pemerintah Kab. Kepulauan Talaud;39;365;354;272;82
+205;Pemerintah Kab. Kepulauan Tanimbar;409;1796;1706;1430;276
+206;Pemerintah Kab. Kepulauan Yapen;196;810;764;634;86
+207;Pemerintah Kab. Kerinci;450;7578;6837;4614;2223
+208;Pemerintah Kab. Ketapang;150;1529;1437;1204;233
+209;Pemerintah Kab. Klaten;25;981;913;812;101
+210;Pemerintah Kab. Klungkung;203;2082;1982;1794;188
+211;Pemerintah Kab. Kolaka;96;979;916;781;135
+212;Pemerintah Kab. Kolaka Timur;85;1438;1308;1076;96
+213;Pemerintah Kab. Kolaka Utara;60;955;897;761;136
+214;Pemerintah Kab. Konawe;300;3363;3258;2638;620
+215;Pemerintah Kab. Konawe Kepulauan;200;2900;2765;1999;766
+216;Pemerintah Kab. Konawe Selatan;239;1873;1704;1611;93
+217;Pemerintah Kab. Konawe Utara;100;840;783;570;213
+218;Pemerintah Kab. Kotabaru;1253;6829;6410;5564;846
+219;Pemerintah Kab. Kotawaringin Barat;160;2086;1847;1462;385
+220;Pemerintah Kab. Kotawaringin Timur;255;3713;3336;2552;784
+221;Pemerintah Kab. Kuantan Singingi;200;6062;5626;4788;833
+222;Pemerintah Kab. Kubu Raya;35;1194;1119;878;241
+223;Pemerintah Kab. Kudus;50;1695;1576;1365;211
+224;Pemerintah Kab. Kulon Progo;90;2264;2115;1808;307
+225;Pemerintah Kab. Kupang;600;2194;2028;1618;410
+226;Pemerintah Kab. Kutai Barat;273;2885;2664;1102;1562
+227;Pemerintah Kab. Kutai Timur;280;4420;3921;2541;1380
+228;Pemerintah Kab. Labuhanbatu;35;1170;1044;708;336
+229;Pemerintah Kab. Labuhanbatu Selatan;122;2383;2257;1824;433
+230;Pemerintah Kab. Labuhanbatu Utara;621;9109;8569;6437;1958
+231;Pemerintah Kab. Lahat;932;15194;14118;6357;7761
+232;Pemerintah Kab. Lamandau;475;1428;1374;1222;152
+233;Pemerintah Kab. Lamongan;615;12406;11376;10141;1235
+234;Pemerintah Kab. Lampung Selatan;52;1279;1141;1013;128
+235;Pemerintah Kab. Lampung Tengah;62;1595;1462;1167;295
+236;Pemerintah Kab. Lampung Timur;100;1412;1338;1234;104
+237;Pemerintah Kab. Lampung Utara;27;352;313;282;31
+238;Pemerintah Kab. Landak;401;5159;4893;3697;1034
+239;Pemerintah Kab. Langkat;100;1793;1685;1382;303
+240;Pemerintah Kab. Lanny Jaya;79;352;336;233;103
+241;Pemerintah Kab. Lebak;84;1959;1742;1669;73
+242;Pemerintah Kab. Lebong;600;9019;8533;5774;2758
+243;Pemerintah Kab. Lembata;1500;9152;8788;7656;660
+244;Pemerintah Kab. Limapuluh Kota;275;9685;9136;8183;953
+245;Pemerintah Kab. Lingga;540;5173;4897;4102;795
+246;Pemerintah Kab. Lombok Barat;80;2249;2093;1677;416
+247;Pemerintah Kab. Lombok Timur;100;3716;3358;2734;624
+248;Pemerintah Kab. Lombok Utara;60;1756;1636;1484;152
+249;Pemerintah Kab. Lumajang;107;5107;4562;3400;1162
+250;Pemerintah Kab. Luwu;17;370;333;256;77
+251;Pemerintah Kab. Luwu Timur;934;21801;20564;15631;2861
+252;Pemerintah Kab. Madiun;100;2381;2207;1926;281
+253;Pemerintah Kab. Magelang;250;10746;9907;8092;1815
+254;Pemerintah Kab. Magetan;250;3306;3204;2647;557
+255;Pemerintah Kab. Mahakam Ulu;434;1448;1257;498;363
+256;Pemerintah Kab. Majalengka;497;16055;14314;12097;2217
+257;Pemerintah Kab. Majene;40;889;834;698;136
+258;Pemerintah Kab. Malaka;806;10055;9742;9233;499
+259;Pemerintah Kab. Malinau;65;1005;968;787;181
+260;Pemerintah Kab. Maluku Barat Daya;1081;3941;3776;2128;1648
+261;Pemerintah Kab. Maluku Tengah;547;3250;3045;2714;331
+262;Pemerintah Kab. Maluku Tenggara;471;3088;2942;1265;466
+263;Pemerintah Kab. Mamasa;90;1002;935;785;149
+264;Pemerintah Kab. Mamberamo Raya;750;2475;2390;1015;77
+265;Pemerintah Kab. Mamberamo Tengah;500;1662;1609;1160;108
+266;Pemerintah Kab. Mamuju Tengah;221;3175;2986;2507;479
+267;Pemerintah Kab. Mandailing Natal;422;4215;4036;2161;1359
+268;Pemerintah Kab. Manggarai;1222;7283;6914;6035;879
+269;Pemerintah Kab. Manggarai Barat;751;6411;5955;5032;923
+270;Pemerintah Kab. Manggarai Timur;400;3935;3710;3339;371
+271;Pemerintah Kab. Manokwari Selatan;400;2384;2261;2117;144
+272;Pemerintah Kab. Mappi;150;2581;2461;2385;76
+273;Pemerintah Kab. Melawi;223;2262;2136;1830;306
+274;Pemerintah Kab. Mempawah;51;734;683;565;118
+275;Pemerintah Kab. Merangin;300;7450;6840;3124;2230
+276;Pemerintah Kab. Mesuji;63;1456;1315;1042;257
+277;Pemerintah Kab. Mimika;847;6553;5933;4581;660
+278;Pemerintah Kab. Minahasa;100;1617;1465;1350;99
+279;Pemerintah Kab. Minahasa Selatan;914;10408;9761;3338;2183
+280;Pemerintah Kab. Minahasa Tenggara;694;3524;3380;3216;164
+281;Pemerintah Kab. Minahasa Utara;35;714;645;440;125
+282;Pemerintah Kab. Mojokerto;108;1849;1724;1516;208
+283;Pemerintah Kab. Morowali;250;3213;2870;2675;195
+284;Pemerintah Kab. Morowali Utara;400;4906;4579;3889;690
+285;Pemerintah Kab. Muara Enim;856;10340;9583;8085;1016
+286;Pemerintah Kab. Mukomuko;150;3584;3403;2600;803
+287;Pemerintah Kab. Muna;50;781;698;617;81
+288;Pemerintah Kab. Muna Barat;260;5750;5545;5170;375
+289;Pemerintah Kab. Musi Banyuasin;205;2438;2346;1985;361
+290;Pemerintah Kab. Musi Rawas;250;5159;4809;4001;808
+291;Pemerintah Kab. Musi Rawas Utara;100;1590;1500;1079;157
+292;Pemerintah Kab. Nabire;200;2406;2160;440;177
+293;Pemerintah Kab. Nagan Raya;156;5437;5319;4062;1257
+294;Pemerintah Kab. Nagekeo;434;3970;3792;2786;772
+295;Pemerintah Kab. Natuna;30;437;414;381;30
+296;Pemerintah Kab. Nduga;480;1348;1290;1142;148
+297;Pemerintah Kab. Ngada;600;2697;2580;2228;352
+298;Pemerintah Kab. Nganjuk;24;237;192;143;49
+299;Pemerintah Kab. Ngawi;283;4997;4759;4163;596
+300;Pemerintah Kab. Nias;370;5534;5380;5079;301
+301;Pemerintah Kab. Nias Barat;325;3272;3172;2570;602
+302;Pemerintah Kab. Nias Selatan;50;2430;2145;1251;886
+303;Pemerintah Kab. Nias Utara;130;1611;1555;1029;248
+304;Pemerintah Kab. Nunukan;240;1762;1619;1473;146
+305;Pemerintah Kab. Ogan Ilir;150;2398;2257;1742;492
+306;Pemerintah Kab. Ogan Komering Ilir;32;972;898;784;114
+307;Pemerintah Kab. Ogan Komering Ulu;25;588;549;424;125
+308;Pemerintah Kab. Ogan Komering Ulu Sel.;22;569;530;340;190
+309;Pemerintah Kab. Ogan Komering Ulu Timur;264;4827;4595;3025;1570
+310;Pemerintah Kab. Pacitan;92;1568;1500;1286;214
+311;Pemerintah Kab. Padang Pariaman;50;870;774;580;194
+312;Pemerintah Kab. Pamekasan;68;1914;1749;1531;218
+313;Pemerintah Kab. Pandeglang;30;916;792;659;133
+314;Pemerintah Kab. Pangkajene dan Kepulauan;28;482;421;354;67
+315;Pemerintah Kab. Paniai;350;2661;2616;1499;826
+316;Pemerintah Kab. Parigi Moutong;159;1238;1128;770;358
+317;Pemerintah Kab. Pasaman;27;833;764;636;128
+318;Pemerintah Kab. Pasangkayu;40;688;639;494;145
+319;Pemerintah Kab. Paser;280;2460;2360;1412;793
+320;Pemerintah Kab. Pasuruan;119;8546;7711;5924;1787
+321;Pemerintah Kab. Pati;71;2315;2138;1829;309
+322;Pemerintah Kab. Pegunungan Arfak;600;2224;2201;2131;70
+323;Pemerintah Kab. Pegunungan Bintang;700;2527;2438;551;1
+324;Pemerintah Kab. Pekalongan;50;1590;1480;1339;141
+325;Pemerintah Kab. Pelalawan;25;2142;1825;1537;268
+326;Pemerintah Kab. Pemalang;326;6928;6340;5814;525
+327;Pemerintah Kab. Penajam Paser Utara;250;2801;2455;2241;213
+328;Pemerintah Kab. Penukal Abab Lematang Ilir;480;7166;6761;5397;1364
+329;Pemerintah Kab. Pesawaran;32;522;483;402;81
+330;Pemerintah Kab. Pesisir Barat;462;7161;6718;5300;1417
+331;Pemerintah Kab. Pesisir Selatan;55;944;869;720;149
+332;Pemerintah Kab. Pidie;58;843;813;729;84
+333;Pemerintah Kab. Pidie Jaya;31;567;536;471;65
+334;Pemerintah Kab. Pohuwato;41;86;73;57;16
+335;Pemerintah Kab. Polewali Mandar;200;5730;5449;2674;2775
+336;Pemerintah Kab. Ponorogo;323;8896;8335;7150;1185
+337;Pemerintah Kab. Pringsewu;106;3006;2871;2342;527
+338;Pemerintah Kab. Probolinggo;70;1361;1136;159;977
+339;Pemerintah Kab. Pulang Pisau;287;1294;1252;1244;8
+340;Pemerintah Kab. Pulau Morotai;160;568;546;539;7
+341;Pemerintah Kab. Pulau Taliabu;135;951;896;607;289
+342;Pemerintah Kab. Puncak;389;1359;1317;1275;42
+343;Pemerintah Kab. Puncak Jaya;1000;2947;2676;2322;354
+344;Pemerintah Kab. Purbalingga;40;2452;2332;2142;190
+345;Pemerintah Kab. Purwakarta;125;3708;3043;2643;400
+346;Pemerintah Kab. Purworejo;17;40;36;33;3
+347;Pemerintah Kab. Raja Ampat;1999;3230;3110;2850;260
+348;Pemerintah Kab. Rejang Lebong;50;1075;1044;850;194
+349;Pemerintah Kab. Rembang;58;2744;2590;2139;451
+350;Pemerintah Kab. Rokan Hilir;100;1692;1550;1264;286
+351;Pemerintah Kab. Rokan Hulu;60;2339;2201;1673;528
+352;Pemerintah Kab. Rote Ndao;1430;2693;2641;2475;166
+353;Pemerintah Kab. Sabu Raijua;130;973;935;800;10
+354;Pemerintah Kab. Sambas;294;5882;5348;4753;595
+355;Pemerintah Kab. Sampang;140;3367;3170;2775;395
+356;Pemerintah Kab. Sanggau;327;3244;3088;3012;76
+357;Pemerintah Kab. Sarmi;140;2349;2101;1913;188
+358;Pemerintah Kab. Sarolangun;243;3156;3020;2543;473
+359;Pemerintah Kab. Sekadau;182;3236;3065;2313;266
+360;Pemerintah Kab. Seluma;1350;14899;14175;12201;1740
+361;Pemerintah Kab. Semarang;149;5155;4847;4442;405
+362;Pemerintah Kab. Seram Bagian Barat;10;171;145;83;62
+363;Pemerintah Kab. Seram Bagian Timur;200;1375;1305;1036;269
+364;Pemerintah Kab. Serang;56;1437;1185;925;260
+365;Pemerintah Kab. Seruyan;150;1246;1184;1020;16
+366;Pemerintah Kab. Siak;25;885;795;710;85
+367;Pemerintah Kab. Sidenreng Rappang;112;3599;3373;2648;725
+368;Pemerintah Kab. Sigi;597;4169;4041;3905;136
+369;Pemerintah Kab. Sijunjung;1261;30823;28609;20961;5478
+370;Pemerintah Kab. Sikka;705;3773;3585;3279;175
+371;Pemerintah Kab. Simalungun;620;16252;15217;7669;6242
+372;Pemerintah Kab. Simeulue;109;2454;2300;1767;533
+373;Pemerintah Kab. Sintang;235;2777;2667;2309;358
+374;Pemerintah Kab. Situbondo;16;895;755;670;85
+375;Pemerintah Kab. Sleman;147;6587;6328;5367;961
+376;Pemerintah Kab. Solok Selatan;44;421;393;285;102
+377;Pemerintah Kab. Sorong;300;1192;1115;896;219
+378;Pemerintah Kab. Sorong Selatan;1200;4275;4148;3683;465
+379;Pemerintah Kab. Sragen;80;2919;2547;2165;382
+380;Pemerintah Kab. Subang;50;1990;1812;1609;203
+381;Pemerintah Kab. Sukabumi;118;2882;2232;1525;637
+382;Pemerintah Kab. Sukamara;26;577;532;481;51
+383;Pemerintah Kab. Sukoharjo;100;5633;5332;4902;430
+384;Pemerintah Kab. Sumba Barat;1062;4634;4303;2743;1147
+385;Pemerintah Kab. Sumba Barat Daya;212;2656;2540;2329;211
+386;Pemerintah Kab. Sumba Tengah;1595;8259;7723;5804;486
+387;Pemerintah Kab. Sumba Timur;358;2596;2522;2303;219
+388;Pemerintah Kab. Sumbawa;275;4179;3963;3607;356
+389;Pemerintah Kab. Sumbawa Barat;200;3894;3633;3271;362
+390;Pemerintah Kab. Sumedang;200;3434;3127;2202;925
+391;Pemerintah Kab. Sumenep;46;1864;1746;1560;186
+392;Pemerintah Kab. Tabalong;90;1991;1881;1736;145
+393;Pemerintah Kab. Takalar;85;3074;2925;2001;924
+394;Pemerintah Kab. Tana Tidung;50;832;797;735;62
+395;Pemerintah Kab. Tana Toraja;433;6737;6206;4031;1906
+396;Pemerintah Kab. Tanah Bumbu;225;3344;3012;2403;609
+397;Pemerintah Kab. Tanah Datar;48;813;764;671;93
+398;Pemerintah Kab. Tanah Laut;39;742;699;666;33
+399;Pemerintah Kab. Tangerang;500;20986;17910;14022;3888
+400;Pemerintah Kab. Tanggamus;100;1974;1765;1342;423
+401;Pemerintah Kab. Tanjung Jabung Barat;230;3904;3738;2697;1041
+402;Pemerintah Kab. Tanjung Jabung Timur;75;1483;1393;1220;173
+403;Pemerintah Kab. Tapanuli Selatan;173;5025;4531;2846;984
+404;Pemerintah Kab. Tapin;150;1668;1606;1523;83
+405;Pemerintah Kab. Tasikmalaya;36;1613;1488;1035;453
+406;Pemerintah Kab. Tebo;150;3751;3472;1715;1723
+407;Pemerintah Kab. Tegal;300;4928;4685;4279;406
+408;Pemerintah Kab. Temanggung;79;2345;2181;1734;447
+409;Pemerintah Kab. Timor Tengah Selatan;1330;10258;9702;6785;2917
+410;Pemerintah Kab. Timor Tengah Utara;135;2772;2571;2148;423
+411;Pemerintah Kab. Tojo Una Una;110;618;579;542;37
+412;Pemerintah Kab. Tolikara;388;1411;1358;889;347
+413;Pemerintah Kab. Toraja Utara;200;2805;2609;2255;354
+414;Pemerintah Kab. Trenggalek;100;1909;1819;1537;269
+415;Pemerintah Kab. Tuban;51;1948;1781;1447;334
+416;Pemerintah Kab. Tulang Bawang;75;1186;1122;1077;45
+417;Pemerintah Kab. Tulang Bawang Barat;30;568;513;345;168
+418;Pemerintah Kab. Tulungagung;75;2318;2157;1717;440
+419;Pemerintah Kab. Wajo;22;483;465;441;24
+420;Pemerintah Kab. Wakatobi;323;3775;3627;3109;141
+421;Pemerintah Kab. Waropen;180;1386;1236;666;78
+422;Pemerintah Kab. Way Kanan;100;1648;1531;1397;134
+423;Pemerintah Kab. Wonogiri;100;3405;3230;2808;422
+424;Pemerintah Kab. Wonosobo;66;2509;2363;2064;299
+425;Pemerintah Kab. Yahukimo;100;1710;1638;1420;155
+426;Pemerintah Kab. Yalimo;300;1555;1487;1331;156
+427;Pemerintah Kota Ambon;1264;12445;11949;5582;5956
+428;Pemerintah Kota Balikpapan;80;2653;2386;2075;311
+429;Pemerintah Kota Banda Aceh;24;348;336;299;37
+430;Pemerintah Kota Bandar Lampung;50;1805;1615;1188;427
+431;Pemerintah Kota Bandung;48;1671;1247;851;396
+432;Pemerintah Kota Banjar;147;2093;1968;1584;384
+433;Pemerintah Kota Banjarbaru;25;1161;1090;929;161
+434;Pemerintah Kota Banjarmasin;28;1899;1743;1568;175
+435;Pemerintah Kota Batam;86;2856;2519;1449;1070
+436;Pemerintah Kota Batu;50;3574;3287;2654;633
+437;Pemerintah Kota Baubau;53;1398;1311;917;394
+438;Pemerintah Kota Bengkulu;213;4185;3752;1460;2292
+439;Pemerintah Kota Bima;132;4375;4133;3447;686
+440;Pemerintah Kota Binjai;46;1149;1060;933;127
+441;Pemerintah Kota Bitung;120;813;730;508;97
+442;Pemerintah Kota Blitar;96;3284;3016;2347;669
+443;Pemerintah Kota Bogor;46;1810;1568;1298;270
+444;Pemerintah Kota Bontang;117;2962;2774;2481;293
+445;Pemerintah Kota Bukittinggi;50;2691;2437;1433;1004
+446;Pemerintah Kota Cimahi;149;4178;3822;2754;1068
+447;Pemerintah Kota Cirebon;124;3748;3261;2762;499
+448;Pemerintah Kota Depok;113;4970;4063;2576;892
+449;Pemerintah Kota Dumai;270;6557;6111;5293;818
+450;Pemerintah Kota Gorontalo;5;12;12;8;4
+451;Pemerintah Kota Gunung Sitoli;80;3941;3691;2944;747
+452;Pemerintah Kota Jambi;60;3626;3005;1940;1064
+453;Pemerintah Kota Kediri;26;550;501;382;119
+454;Pemerintah Kota Kendari;83;944;876;628;248
+455;Pemerintah Kota Kupang;135;1114;1033;709;324
+456;Pemerintah Kota Lhokseumawe;252;13541;12867;9395;3472
+457;Pemerintah Kota Madiun;52;903;859;765;94
+458;Pemerintah Kota Magelang;14;952;902;724;178
+459;Pemerintah Kota Makassar;186;5838;5400;3407;343
+460;Pemerintah Kota Malang;50;2889;2556;1760;796
+461;Pemerintah Kota Manado;100;2281;2063;1531;532
+462;Pemerintah Kota Mataram;93;2258;2152;1908;244
+463;Pemerintah Kota Medan;591;10815;10015;8459;1536
+464;Pemerintah Kota Metro;100;1837;1748;1662;77
+465;Pemerintah Kota Mojokerto;15;500;442;370;72
+466;Pemerintah Kota Padang;492;11867;10784;8354;2430
+467;Pemerintah Kota Padangsidimpuan;125;4462;4059;3507;543
+468;Pemerintah Kota Pagar Alam;190;1831;1746;1428;318
+469;Pemerintah Kota Palangka Raya;52;753;700;521;179
+470;Pemerintah Kota Palembang;157;1221;1164;1081;83
+471;Pemerintah Kota Palopo;200;5174;5019;4787;232
+472;Pemerintah Kota Palu;202;654;613;512;101
+473;Pemerintah Kota Pangkal Pinang;49;1342;1269;1007;262
+474;Pemerintah Kota Parepare;88;3608;3373;2554;819
+475;Pemerintah Kota Pariaman;178;5414;5193;4830;363
+476;Pemerintah Kota Pasuruan;15;204;170;122;48
+477;Pemerintah Kota Payakumbuh;32;292;279;234;45
+478;Pemerintah Kota Pekalongan;50;1894;1812;1679;133
+479;Pemerintah Kota Pekanbaru;250;5340;4893;4441;452
+480;Pemerintah Kota Pematangsiantar;92;820;787;603;184
+481;Pemerintah Kota Pontianak;388;9171;8140;4621;3513
+482;Pemerintah Kota Prabumulih;100;1460;1374;1161;130
+483;Pemerintah Kota Sabang;55;1167;1149;1099;50
+484;Pemerintah Kota Samarinda;100;1867;1664;1243;421
+485;Pemerintah Kota Sawahlunto;100;634;610;519;91
+486;Pemerintah Kota Semarang;331;15798;14876;12136;2740
+487;Pemerintah Kota Serang;700;16158;14363;5448;8915
+488;Pemerintah Kota Sibolga;75;2140;2019;1655;364
+489;Pemerintah Kota Singkawang;38;802;727;432;267
+490;Pemerintah Kota Solok;115;2613;2491;2035;456
+491;Pemerintah Kota Sorong;500;1538;1362;1308;54
+492;Pemerintah Kota Subulussalam;100;3354;3089;1722;1367
+493;Pemerintah Kota Sukabumi;50;1731;1525;1244;281
+494;Pemerintah Kota Sungai Penuh;306;2683;2506;2064;442
+495;Pemerintah Kota Surabaya;680;17683;16144;10804;5340
+496;Pemerintah Kota Surakarta;250;7333;7024;6626;398
+497;Pemerintah Kota Tanjungpinang;15;52;51;49;2
+498;Pemerintah Kota Tarakan;23;1108;1062;880;182
+499;Pemerintah Kota Tasikmalaya;100;3478;3253;2514;690
+500;Pemerintah Kota Tebing Tinggi;48;1217;1115;672;441
+501;Pemerintah Kota Tegal;247;3612;3230;2904;326
+502;Pemerintah Kota Tidore Kepulauan;51;65;64;53;11
+503;Pemerintah Kota Tual;433;2790;2656;2204;452
+504;Pemerintah Kota Yogyakarta;10;921;797;606;191
+505;Pemerintah Provinsi Bali;105;8834;8232;7485;747
+506;Pemerintah Provinsi Bengkulu;200;4181;4028;3462;563
+507;Pemerintah Provinsi Daerah Khusus Ibukota Jakarta;4413;43838;39684;33503;6181
+508;Pemerintah Provinsi Jawa Barat;899;25063;22955;20214;2741
+509;Pemerintah Provinsi Jawa Tengah;265;7108;6734;6112;618
+510;Pemerintah Provinsi Jawa Timur;2314;31999;30229;23996;3911
+511;Pemerintah Provinsi Kalimantan Barat;60;1462;1063;668;381
+512;Pemerintah Provinsi Kalimantan Selatan;125;5614;5187;4148;1039
+513;Pemerintah Provinsi Kalimantan Tengah;555;8377;7803;7274;529
+514;Pemerintah Provinsi Kalimantan Timur;261;9522;8433;6423;2010
+515;Pemerintah Provinsi Kalimantan Utara;65;1313;1232;926;294
+516;Pemerintah Provinsi Kep. Bangka Belitung;40;1764;1682;1160;522
+517;Pemerintah Provinsi Kepulauan Riau;111;2944;2786;2352;433
+518;Pemerintah Provinsi Lampung;554;6237;5940;5086;854
+519;Pemerintah Provinsi Maluku;158;1422;1335;1176;159
+520;Pemerintah Provinsi Maluku Utara;590;5178;4959;4110;490
+521;Pemerintah Provinsi NTT;2571;17704;16718;14069;2649
+522;Pemerintah Provinsi Nusa Tenggara Barat;140;4725;4388;3923;465
+523;Pemerintah Provinsi Papua Barat Daya;1088;12787;11941;8963;1279
+524;Pemerintah Provinsi Papua Pegunungan;1000;9308;8938;1304;471
+525;Pemerintah Provinsi Papua Selatan;1000;13702;12909;4111;1043
+526;Pemerintah Provinsi Papua Tengah;950;10738;10172;7382;1407
+527;Pemerintah Provinsi Riau;80;3200;2799;2105;694
+528;Pemerintah Provinsi Sulawesi Barat;23;148;132;108;24
+529;Pemerintah Provinsi Sulawesi Selatan;6;179;150;120;30
+530;Pemerintah Provinsi Sulawesi Tengah;540;10672;9877;9387;490
+531;Pemerintah Provinsi Sulawesi Tenggara;1509;24246;23220;22296;924
+532;Pemerintah Provinsi Sumatera Barat;424;9079;8436;7265;1171
+533;Pemerintah Provinsi Sumatera Selatan;185;4392;4025;3668;357
+534;Pemerintah Provinsi Sumatera Utara;851;12122;11143;8251;2816
+535;Perpustakaan Nasional RI;155;4271;3994;3527;466
+536;Sekretariat Jenderal Dewan Nasional Kawasan Ekonomi Khusus;150;2152;2034;1682;352
+537;Sekretariat Jenderal DPR RI;302;6254;5831;4882;949
+538;Sekretariat Jenderal Komisi Yudisial;145;1045;890;668;222
+539;Sekretariat Jenderal MPR;25;548;490;433;57
+540;Setjen Dewan Perwakilan Daerah;230;1937;1838;941;897
+541;Setjen Komisi Pemilihan Umum;3278;30776;29806;22195;7611
+542;Setjen KOMNAS HAM;38;507;448;388;60
+543;Setjen WANTANNAS;64;896;820;591;110
